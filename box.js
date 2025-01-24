@@ -1,4 +1,5 @@
 x= 1;
 y= 2;
+z=x+y
 
-console.log(x+y);
+console.log(z);
