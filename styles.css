@@ -1,0 +1,82 @@
+body{
+    
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: indigo;
+}
+#banner{
+    width: 100%;
+    object-fit: cover;
+}
+#navbar{
+    padding: 8px;
+    margin: 0;
+
+}
+#logo{
+    height: 20px;
+
+}
+
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#description{
+    width: 50%;
+    padding: 0 8px ;
+
+}
+
+#teamimage{
+    width: 50%;
+    
+    border-radius: 25px; 
+}
+
+h2{
+    margin: 30px;
+    text-align: center;
+    color: blueviolet;
+}
+
+span{
+    color: gray ;
+}
+
+h3{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.apply{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+}
+
+#footer{
+    background-color: ghostwhite;
+
+    margin-top: 35px;
+    text-align: center;
+
+
+}
+
+#footerlink{
+    list-style: none;
+    padding: 10px;
+}
+
+#footerlink li{
+    display: inline;
+    margin:  0 16px;
+}
